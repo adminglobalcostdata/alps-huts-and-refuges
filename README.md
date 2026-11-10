@@ -1,7 +1,5 @@
 # Alpine Huts & Refuges: DE AT CH FR (OSM)
 
-> Search about 2,400 mountain huts and refuges in Germany, Austria, Switzerland and France from OpenStreetMap: coordinates, elevation, beds, winter room, water, food, reservation.
-
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-1f6feb)](https://apify.com/phonic_lily/alps-huts-and-refuges) ![Licence](https://img.shields.io/badge/licence-ODbL_1.0_-blue) ![Records](https://img.shields.io/badge/records-2%2C412-green)
 
 Search about 2,400 mountain huts and refuges in Germany, Austria, Switzerland and France from OpenStreetMap: coordinates, elevation, beds, winter room, water, food, reservation. Embedded data, no scraping, pay per record.
