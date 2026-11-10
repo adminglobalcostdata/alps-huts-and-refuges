@@ -1,0 +1,144 @@
+{
+ "columns": [
+  {
+   "name": "id",
+   "type": "string",
+   "description": "OpenStreetMap element id (n=node, w=way, r=relation) or slug; unique within kind."
+  },
+  {
+   "name": "name",
+   "type": "string",
+   "description": "Name as tagged in OpenStreetMap."
+  },
+  {
+   "name": "lat",
+   "type": "number",
+   "description": "Latitude, decimal degrees."
+  },
+  {
+   "name": "lon",
+   "type": "number",
+   "description": "Longitude, decimal degrees."
+  },
+  {
+   "name": "country",
+   "type": "string",
+   "description": "ISO country code when the source gives it (DE, AT, CH, BE); null for records from the French source sites, which carry no country field."
+  },
+  {
+   "name": "elevation_m",
+   "type": "number",
+   "description": "Elevation in metres as tagged in OSM, null if untagged."
+  },
+  {
+   "name": "capacity",
+   "type": "number",
+   "description": "Number of beds (OSM capacity tag)."
+  },
+  {
+   "name": "capacity_winter_room",
+   "type": "number",
+   "description": "Beds in the winter room."
+  },
+  {
+   "name": "website",
+   "type": "string",
+   "description": "Website of the object or its organisation."
+  },
+  {
+   "name": "reservation",
+   "type": "string",
+   "description": "Reservation tag."
+  },
+  {
+   "name": "opening_hours",
+   "type": "string",
+   "description": "OSM opening_hours tag (free text)."
+  },
+  {
+   "name": "drinking_water",
+   "type": "string",
+   "description": "Drinking water tag."
+  },
+  {
+   "name": "food",
+   "type": "string",
+   "description": "Food tag."
+  },
+  {
+   "name": "cuisine",
+   "type": "string",
+   "description": "Cuisine tag."
+  },
+  {
+   "name": "internet_access",
+   "type": "string",
+   "description": "Internet access tag."
+  },
+  {
+   "name": "shower",
+   "type": "string",
+   "description": "Shower tag."
+  },
+  {
+   "name": "wheelchair",
+   "type": "string",
+   "description": "Wheelchair tag."
+  },
+  {
+   "name": "outdoor_seating",
+   "type": "string",
+   "description": "Outdoor seating tag."
+  },
+  {
+   "name": "winter_room",
+   "type": "string",
+   "description": "Winter room tag."
+  },
+  {
+   "name": "power_supply",
+   "type": "string",
+   "description": "Power supply tag."
+  },
+  {
+   "name": "built_year",
+   "type": "number",
+   "description": "Year built (tag)."
+  },
+  {
+   "name": "wikidata",
+   "type": "string",
+   "description": "Wikidata QID."
+  },
+  {
+   "name": "wikipedia",
+   "type": "string",
+   "description": "Wikipedia article tag (lang:title)."
+  },
+  {
+   "name": "alt_name",
+   "type": "string",
+   "description": "Alternative name."
+  },
+  {
+   "name": "commons",
+   "type": "string",
+   "description": "Wikimedia Commons reference."
+  },
+  {
+   "name": "refuges_info_id",
+   "type": "string",
+   "description": "Id of the same hut on Refuges.info (link only; Refuges.info data are in a separate Actor)."
+  },
+  {
+   "name": "local_relief_m",
+   "type": "number",
+   "description": "Local relief within about 2 km in metres (computed by atlas-montagne from a DEM)."
+  },
+  {
+   "name": "source_sites",
+   "type": "string",
+   "description": "Source site(s) of the record, joined with +."
+  }
+ ]
+}
