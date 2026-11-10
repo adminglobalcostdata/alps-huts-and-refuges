@@ -1,0 +1,101 @@
+id,name,lat,lon,country,elevation_m,capacity,capacity_winter_room,website,reservation,opening_hours,drinking_water,food,cuisine,internet_access,shower,wheelchair,outdoor_seating,winter_room,power_supply,built_year,wikidata,wikipedia,alt_name,commons,refuges_info_id,local_relief_m,source_sites
+n251403227,Mischabelhütte,46.10942,7.8888,CH,3340,120,16,https://www.mischabelhuette.ch/,,,yes,yes,,,,,,,,,Q684237,de:Mischabelhütte,,,1493,2300,alpen-atlas+atlas-montagne
+n264130866,Rifugio Sant'Anna,46.1052,8.81476,CH,1342,,,,no,,,,,,,,,,,,,,,,,1315,alpen-atlas+atlas-montagne
+n270447880,Capanna Piandios,46.48149,8.88423,CH,1875,35,14,http://www.sciclubcrap.ch/index.php/capanna,,,yes,yes,,,,,,,,,Q3656718,it:Capanna Piandios,,,,1471,alpen-atlas+atlas-montagne
+n294171060,Berggasthaus Trift,46.03004,7.72107,CH,2337,48,,http://www.zermatt.ch/trift,,Jun-Sep,yes,yes,,,,,,,,,,,,,,1603,alpen-atlas+atlas-montagne
+n302898492,Cabane de Mille,46.01367,7.20657,CH,2473,40,,https://www.cabanedemille.ch,,,yes,yes,,,,,,,,,,,,,1712,1622,alpen-atlas+atlas-montagne
+n309750964,Cabane Brunet,46.03034,7.2742,CH,2104,56,12,https://www.cabanebrunet.ch/,,,yes,yes,,,,,,,,,,,,,2458,1604,alpen-atlas+atlas-montagne
+n309753126,Cabane de Valsorey,45.93037,7.27176,CH,3037,52,30,https://www.valsorey.ch/,,,yes,yes,,,,,,,,,Q2655171,,,,1511,2017,alpen-atlas+atlas-montagne
+n309753131,Cabane du Vélan,45.91694,7.24546,CH,2642,62,6,https://www.velan.ch/,,,yes,yes,,,,,,,,,Q1024722,,,,2338,1578,alpen-atlas+atlas-montagne
+n309753135,Cabane FXB Panossière,45.99872,7.29976,CH,2641,75,4,https://www.panossiere.ch/,,,yes,yes,,,,,,,,,Q3649146,,,,1711,1641,alpen-atlas+atlas-montagne
+n309757022,Cabane de Saleinaz CAS,45.97644,7.07037,CH,2691,48,22,https://www.cas-neuchatel.ch/cabanes/cabane-de-saleinaz-2691m/,,,yes,yes,,,,,,,,,,,,,2443,1862,alpen-atlas+atlas-montagne
+n309758417,Cabane de Bertol CAS,46.00602,7.52767,CH,3311,80,16,http://www.bertol.ch,,,yes,yes,,,,,,,,,Q2058111,,,,2349,1083,alpen-atlas+atlas-montagne
+n309759750,Cabane Mont Fort,46.08356,7.28105,CH,2457,58,6,https://cabanemontfort.com,,,yes,yes,,yes,,,,,,,Q17041224,,,,2368,1570,alpen-atlas+atlas-montagne
+n316985701,Britanniahütte,46.06006,7.93502,CH,3030,101,10,https://www.britannia.ch/,,,yes,yes,,no,,,,,,,Q678389,de:Britanniahütte,,,2433,1598,alpen-atlas+atlas-montagne
+n413544181,Capanna Brogoldone,46.26288,9.06332,CH,1910,57,26,https://www.capanneti.ch/,yes,Jan - Jan,yes,yes,,,,,,,,,Q3656698,it:Capanna Brogoldone,,,,1569,alpen-atlas+atlas-montagne
+n441570713,Reutsperre,46.70019,8.17894,CH,1272,,,,,,,,,,,,,,,,,,,,,1810,alpen-atlas+atlas-montagne
+n445505188,Martinsmadhütte,46.89256,9.18831,CH,2002,40,4,https://www.martinsmadhuette.ch/,,,yes,yes,,,,,,,,,Q21037128,de:Martinsmadhütte,,,,1814,alpen-atlas+atlas-montagne
+n449340086,Capanna Gesero,46.18141,9.12084,CH,1765,40,,http://www.utoe.ch/?id=470,,,,,,,,,,,,,Q3656739,it:Capanna del Gesero,,,,1131,alpen-atlas+atlas-montagne
+n452629133,Capanna Cadagno,46.54659,8.71961,CH,1987,60,50,https://www.capannacadagno.ch/,,,yes,yes,,,,,,,,,Q3656700,it:Capanna Cadagno,,,4788,817,alpen-atlas+atlas-montagne
+n454394985,Rotstockhütte,46.54516,7.83832,CH,2039,43,,http://www.rotstockhuette.ch/,,,yes,yes,,no,no,,,,,,,,,,,1592,alpen-atlas+atlas-montagne
+n454641956,Hinterbalmhütte,46.77954,8.79848,CH,1817,34,,https://www.hinterbalm-huette.ch/,,,yes,yes,,,,,,,,,,,,,,1796,alpen-atlas+atlas-montagne
+n454642322,Cavardirashütte,46.74244,8.81427,CH,2649,70,15,https://www.cavardiras.ch/,,,yes,yes,,,,,,,,,Q1051780,,,,,847,alpen-atlas+atlas-montagne
+n456418356,Capanna Dötra,46.53168,8.87964,CH,1747,34,34,http://satlucomagno.ch/,yes,May - Oct,yes,yes,,,,,,,,,Q3656703,it:Capanna Dötra,,,4784,1208,alpen-atlas+atlas-montagne
+n458393161,Cabane des Diablerets,46.33869,7.21547,CH,2486,32,,https://www.cabane-diablerets.ch/,,,yes,yes,,yes,,,,,,,Q84702877,de:Cabane des Diablerets,,,2912,1548,alpen-atlas+atlas-montagne
+n458393162,Refuge de Pierredar,46.32127,7.19482,CH,2293,22,22,https://www.pierredar.ch/,,,yes,yes,,,,,,,,,,,,,2911,1815,alpen-atlas+atlas-montagne
+n458867305,Refuge Igloo des Pantalons Blancs,46.04054,7.36852,CH,3280,15,15,https://new.clubalpinsion.ch/,,,,,,,,,,,,,Q98918261,,,,1430,1221,alpen-atlas+atlas-montagne
+n461016641,Brisenhaus,46.9149,8.46424,CH,1753,46,,https://www.brisenhaus.ch/,,,yes,yes,,,,,,,,,Q917739,,,,,1075,alpen-atlas+atlas-montagne
+n479305503,Berghaus Diavolezza,46.41224,9.96505,CH,2978,170,,https://www.diavolezza.ch/,,,yes,yes,,,,,,,,,,,,,,,alpen-atlas
+n492480491,Kletterhütte Bockmattli,47.09947,8.95033,CH,1501,10,,https://www.bockmattli.ch/,,,yes,yes,,,,,,,,,Q889225,de:Bockmattlihütte,Bockmattlihütte,,,1126,alpen-atlas+atlas-montagne
+n502559697,Capanna Adula CAS,46.49918,8.99561,CH,2012,24,9,https://capannaadula.casticino.ch,,,yes,yes,,,,,,,,,Q378873,it:Capanna Adula CAS,,,3975,1903,alpen-atlas+atlas-montagne
+n502559712,Capanna Alzasca,46.27128,8.5893,CH,1734,20,10,http://www.capannaalzasca.ch,,,yes,yes,,,,no,,,,,Q3656691,,,,6391,1027,alpen-atlas+atlas-montagne
+n502559739,Capanna Basodino CAS,46.43954,8.51413,CH,1856,59,20,http://www.capannabasodino.ch,,,yes,yes,,yes,,,,,,,Q3656695,it:Capanna Basòdino,,,,1343,alpen-atlas+atlas-montagne
+n502559748,Refuge des Bouquetins CAS,45.97088,7.53052,CH,2980,26,20,http://www.cas-valdejoux.ch,,,,,,,,,,,,,,,,,2309,1291,alpen-atlas+atlas-montagne
+n502559755,Capanna Campo Tencia,46.44423,8.73267,CH,2140,60,16,https://campotencia.casticino.ch,,,yes,yes,,,,,,,,,Q3656736,it:Capanna del Campo Tencia,,,,1321,alpen-atlas+atlas-montagne
+n502559768,Capanna Corno Gries CAS,46.46708,8.41005,CH,2338,46,9,https://www.corno-gries.ch/,,,yes,yes,,,,no,,,,,Q3656742,it:Capanna del Corno Gries,,,2055,943,alpen-atlas+atlas-montagne
+n502559776,Dammahütte SAC,46.64487,8.45778,CH,2439,20,20,https://dammahuette.ch/,,,yes,yes,,,,,,,,,Q1158616,,,,,1313,alpen-atlas+atlas-montagne
+n502559811,Col de la Dent Blanche CAS Bivouac,46.04193,7.60709,CH,3540,15,15,https://www.cas-jaman.ch/cabanes/bivouac-de-la-dent-blanche,,,,,,,,,,,,,,,,,2468,1654,alpen-atlas+atlas-montagne
+n502559848,Biwak am Grassen,46.77024,8.44675,CH,2647,,,,recommended,,no,,,,no,,,,,,,,,,,,alpen-atlas
+n502559863,Guggihütte,46.56275,7.9744,CH,2791,24,24,https://www.sac-interlaken.ch/,,,yes,,,,,,,,,,Q20669004,,,,,2395,alpen-atlas+atlas-montagne
+n502559868,Glattalphütte,46.91684,8.87501,CH,1896,51,12,https://www.glattalphuette.ch/,,,yes,yes,,,,,,,,,Q15812400,de:Glattalphütte,,,,1307,alpen-atlas+atlas-montagne
+n502559876,Hüfihütte,46.80183,8.81899,CH,2334,32,,https://www.huefihuette.ch/,,,yes,yes,,,,,,,,,Q26821669,de:Hüfihütte,,,,1643,alpen-atlas+atlas-montagne
+n502559893,Gspaltenhornhütte SAC,46.51269,7.81026,CH,2455,60,,https://www.gspaltenhornhuette.ch/,,,yes,yes,,,,,,,,,Q16064923,,,,,1937,alpen-atlas+atlas-montagne
+n502559908,Monte Leone-Hütte,46.26074,8.08032,CH,2848,20,16,https://www.cas-sommartel.ch/,,,yes,yes,,,,,,,,,Q2783334,,,,2898,1246,alpen-atlas+atlas-montagne
+n502559914,Camona da Medel CAS,46.64051,8.91381,CH,2524,51,10,https://www.medelserhuette.ch,,,yes,yes,,,,,,,,,Q1400791,,,,,1262,alpen-atlas+atlas-montagne
+n502559916,Mischabeljochbiwak SAC,46.07421,7.86582,CH,3847,,,,,,,,,,,,,,,,,,,,2464,,alpen-atlas
+n502559919,Camona da Maighels CAS,46.62536,8.69012,CH,2310,83,14,https://www.maighelshuette.ch/,,,yes,yes,,,,,,,,,Q1885245,,,,,1097,alpen-atlas+atlas-montagne
+n502559963,Täschhütte,46.05157,7.83001,CH,2701,74,10,https://www.taeschhuette.ch,,,yes,yes,,,,,,,,,Q2463654,de:Täschhütte,,,2269,1530,alpen-atlas+atlas-montagne
+n502559964,Stockhorn-Biwak,46.37742,7.88101,CH,2598,18,18,http://www.stockhornbiwak.ch,,,yes,,,,,,,,,,Q85513302,de:Stockhornbiwak,,,,,alpen-atlas
+n502559966,L'Aiguillette à la Singla CAS Bivouac,45.94147,7.45408,CH,3179,12,12,https://cas-chasseron.ch/,,,,,,,,,,,,,,,,,2069,905,alpen-atlas+atlas-montagne
+n502559977,Weisshornhütte SAC,46.08596,7.74359,CH,2932,31,6,https://www.sac-basel.ch/huetten/weisshornhuette,,,yes,yes,,,,,,,,,Q14634889,de:Weisshornhütte,,,2268,2568,alpen-atlas+atlas-montagne
+n502925545,Engelhornhütte,46.68318,8.17283,CH,1901,50,50,https://www.aacb.ch/,,,yes,yes,,,,,,,,,Q68195988,,,,,1817,alpen-atlas+atlas-montagne
+n505804029,Eiger-Ostegghütte,46.60039,8.04118,CH,2320,12,12,http://www.mittellegi.ch,,,yes,,,,,,,,,,Q1303478,,,,,2428,alpen-atlas+atlas-montagne
+n514017580,Sidelenhütte,46.59746,8.42675,CH,2708,34,,http://www.sidelen-huette.ch,,,yes,yes,,,,,,,,,Q16887864,,,,,1524,alpen-atlas+atlas-montagne
+n521161221,Oberaar,46.54887,8.27751,CH,2335,,,https://www.grimselwelt.ch/grimselhotels/oberaar,,,,,regional,wlan,,,yes,,,,,,,,,979,alpen-atlas+atlas-montagne
+n567341871,Cabane Bella-Tola,46.23289,7.6143,CH,2346,,,https://cabanebellatola.ch/,,,,,,,,,,,,,,,,,3585,1423,alpen-atlas+atlas-montagne
+n567918331,Tannhütte NFS,47.26699,9.44763,CH,1231,,,,,,,,,,,,,,,,,,,,,1418,alpen-atlas+atlas-montagne
+n599053941,Capanna Borgna,46.22954,8.92506,CH,1912,27,,https://www.sev-verzasca.ch/borgna,,,,,,,,,,,,,Q3656696,it:Capanna Borgna,,,,1035,alpen-atlas+atlas-montagne
+n599054989,Capanna Efra,46.33842,8.85146,CH,2039,24,,https://www.sev-verzasca.ch/efra-deutsch,,,,,,,,,,,,,Q3656733,it:Capanna d'Efra,,,10968,,alpen-atlas
+n599060022,Capanna Cognóra,46.37647,8.81318,CH,1938,20,,https://www.sev-verzasca.ch/cognora-deutsch,yes,,,,,,yes,,,,,,Q3656702,it:Capanna Cognora,,,,,alpen-atlas
+n619481245,Hubelhütte,46.74737,9.81443,CH,2281,,,,,,,,,,,,,,,,,,,,,,alpen-atlas
+n691039123,Capanna Grossalp,46.31651,8.47122,CH,1907,26,,http://www.capannagrossalp.ch,,,yes,yes,,,,no,,,,,Q166779,,,,,1073,alpen-atlas+atlas-montagne
+n765901189,Rifugio Föisc,46.53302,8.66798,CH,2200,8,8,https://www.capanneti.ch,,,yes,,,,,,,,,,Q3935497,it:Rifugio Föisc,,,,1340,alpen-atlas+atlas-montagne
+n806852750,Federihütte,47.16901,9.0812,CH,1375,,,https://federihuette.ch/,,,,,,,,,,,,,,,,,,1344,alpen-atlas+atlas-montagne
+n810642741,Segnespass Mountain Lodge,46.90221,9.22465,CH,2627,,,https://www.segnespass.ch/,,Jul-Sep,,,,,,,,,,,,,Segnespasshütte,,,1672,alpen-atlas+atlas-montagne
+n863484248,Chamanna Cler,46.79979,10.1842,CH,2476,25,,https://www.ski-ardez.ch/chamonna,required,,,,,,,,,,,,,,,,,,alpen-atlas
+n926803016,Inneralp,47.30571,9.51319,CH,1209,,,,,,,,,,,,,,,,,,,,,1285,alpen-atlas+atlas-montagne
+n926803025,Eichenwieser Schwamm,47.31179,9.50227,CH,1168,,,,,,,,,,,,,,,,,,,,,1174,alpen-atlas+atlas-montagne
+n929432254,Capanna Leit,46.46692,8.71882,CH,2257,64,64,https://capanna-leit.ch/,,,yes,yes,,,,no,,,,,Q3656712,it:Capanna Leìt,,,4823,1341,alpen-atlas+atlas-montagne
+n936745007,Cabane de la Tsissette,45.95376,7.15549,CH,2005,,,https://latsissette.ch/,,,,,,,,,,,,,,,,,3684,1001,alpen-atlas+atlas-montagne
+n939635834,Rifugio Tomeo,46.3661,8.68881,CH,1739,20,27,https://www.capannatomeo.ch/,,,yes,yes,,yes,yes,,,,,,Q3935660,,,,,1916,alpen-atlas+atlas-montagne
+n949911069,Capanna Cornavosa,46.27944,8.89757,CH,1991,24,,https://www.sev-verzasca.ch/cornavosa,,,,,,,,,,,,,Q1034200,it:Capanna Cornavòsa,,,,,alpen-atlas
+n1212971626,Sustlihütte SAC,46.75171,8.47079,CH,2257,67,13,https://www.sustlihuette.ch/,,,yes,yes,,no,,,,,,,Q56817151,de:Sustlihütte,,,,1159,alpen-atlas+atlas-montagne
+n1341552316,Capanna dei Monti di Lego,46.19884,8.83177,CH,1110,10,,https://www.fondazioneverzasca.ch/it/46/monti_di_lego.aspx,,,,,regional,,,no,,,,,Q3656732,it:Capanna dei Monti di Lego,,,,1255,alpen-atlas+atlas-montagne
+n1349631178,Capanna Quarnei,46.47311,9.02365,CH,2107,58,15,https://quarnei.ch/,,,yes,yes,,,,,,,,,Q2122324,it:Capanna Quarnèi,,,,1714,alpen-atlas+atlas-montagne
+n1386596356,Stock,46.46437,7.65599,CH,1832,,,,,,,,,,,,,,,,,,,,,1489,alpen-atlas+atlas-montagne
+n1386596359,Winteregghütte,46.46041,7.64994,CH,1897,,,,,,,,,,,,,,,,,,,,,1587,alpen-atlas+atlas-montagne
+n1408362656,Berggasthaus Tschingelhorn,46.52318,7.89333,CH,1678,,,https://tschingelhorn.ch/,,,,,,no,,,,,,,,,,,,1963,alpen-atlas+atlas-montagne
+n1431293779,Capanna Adula UTOE,46.49531,9.00763,CH,2393,54,20,https://www.adula-utoe.ch/,,,yes,yes,,,,,,,,,Q378877,it:Capanna Adula UTOE,,,3976,2013,alpen-atlas+atlas-montagne
+n1444317646,Capanna Mognone,46.1964,8.95076,CH,1463,12,12,https://www.patriziato-sementina.ch/,,,yes,,,,,,,,,,Q3656677,it:Capanna Alpe Mognone,Capanna Alpe Mognone,,,1683,alpen-atlas+atlas-montagne
+n1444373827,Capanna Orino,46.19698,8.93255,CH,1395,12,12,https://www.capanneti.ch/de/huetten/orino,,,yes,,,,,,,,,,Q3656682,it:Capanna Alpe d'Orino,,,,1584,alpen-atlas+atlas-montagne
+n1444601155,Capanna Albagno,46.22248,8.95642,CH,1870,28,28,http://www.utoe.ch,recommended,,yes,,,,,,,yes,,,Q3656673,it:Capanna Albagno,,,3978,1349,alpen-atlas+atlas-montagne
+n1455771718,Alp di Fora,46.29704,9.13921,CH,1844,16,16,https://sentiero-calanca.ch/hutten-am-weg/#RifugioAlpDiFora,,,,,,,,,,,,,,,,,4301,1740,alpen-atlas+atlas-montagne
+n1456288909,Wildstrubelhütte,46.38302,7.46767,CH,2793,68,10,https://www.wildstrubelhuette.ch/,,,yes,yes,,,,,,,,,Q1875287,de:Wildstrubelhütte,,,2980,1339,alpen-atlas+atlas-montagne
+n1458720984,Kinhütte,46.08853,7.80709,CH,2584,,,,,,,,,,,,,,,,Q15095350,de:Kinhütte,,,2354,2125,alpen-atlas+atlas-montagne
+n1576617817,Pra Cornet,46.4044,7.13237,CH,1646,,,,,,,,,,,,,,,,,,,,,1130,alpen-atlas+atlas-montagne
+n1652116747,Alp Natons,46.49283,9.65201,CH,1963,,,,,,,,,,,,,,,,,,,,,1119,alpen-atlas+atlas-montagne
+n1791356848,Rifugio Alpetto di Caviano,46.09937,8.7885,CH,1255,10,,,,,,,,,,,,,,,Q3656690,it:Capanna Alpetto di Caviano,,,4302,1362,alpen-atlas+atlas-montagne
+n1818068910,Bortelhütten,46.29386,8.09335,CH,2113,40,6,https://www.bortelhuette.ch/,,,yes,yes,,,,,,,,,,,,,3589,1321,alpen-atlas+atlas-montagne
+n2028391169,Feyersaga,46.70542,7.22462,CH,1035,,,,,,,,,,,,,,,,,,,,,603,alpen-atlas+atlas-montagne
+n2323746001,Capanna di Cava,46.35751,9.03031,CH,2066,50,50,https://www.utoe-biasca.ch/capanna-cava,yes,Jun - Sept,yes,yes,,,,,,yes,,,Q3656744,it:Capanna di Cava,,,,1444,alpen-atlas+atlas-montagne
+n2344504403,Berghotel Obersteinberg,46.51816,7.88549,CH,1778,,,,,,,,,,,,,,,,,,,,,1865,alpen-atlas+atlas-montagne
+n2349506772,Berggasthaus Aescher-Wildkirchli,47.2834,9.41445,CH,1454,,,https://aescher.ch,yes,"May-Oct: Mo-Su 07:30+ ""Warme Küche von 11 bis 20.30 Uhr""; Nov: Mo-Su 08:00-20:00 ""Warme Küche von 11 bis 19.30 Uhr""; Dec-Apr closed",,,,no,no,no,yes,no,,,Q56239682,de:Berggasthaus Aescher-Wildkirchli,,,,1054,alpen-atlas+atlas-montagne
+n2392556626,Alp Schrina,47.14116,9.26141,CH,1285,,,https://alp-schrina.ch/,,,,,,,,,,,,,,,,,,1714,alpen-atlas+atlas-montagne
+n2470070886,Capanna Ribia,46.25133,8.5416,CH,1996,12,12,https://se-im.ch/capanna-ribia/,,,yes,,,,,,,,,,Q3656724,it:Capanna Ribia,,,,1417,alpen-atlas+atlas-montagne
+n2587129508,Rifugio Cortin,46.1905,9.18237,CH,1663,6,,,,,,,,,,,,,,,,,,,8142,,alpen-atlas
+n2602026874,Capanna Alpe Saléi,46.22096,8.56231,CH,1777,30,30,https://www.alpesalei.ch/,,Mo-Su 10:30-15:00,yes,,,,,,,,,,Q3656678,it:Capanna Alpe Saléi,,,,1125,alpen-atlas+atlas-montagne
+n2663872642,Rifugio Alpe di Lai,46.25292,8.95197,CH,1138,12,,https://it.wikipedia.org/wiki/Rifugio_Alpe_di_Lai,,,,,,no,,,,,,,Q3935398,it:Rifugio Alpe di Lai,,,,,alpen-atlas
+n2820208447,La Peule,45.89862,7.11259,CH,2071,,,,,,,,regional,,,,,,,,,,,,4030,1113,alpen-atlas+atlas-montagne
+n2949459124,Capanna Soveltra,46.40607,8.71093,CH,1534,28,28,https://www.sav-vallemaggia.ch/,,,yes,yes,,,,,,,,,Q3656729,it:Capanna Sovèltra,,,,1756,alpen-atlas+atlas-montagne
+n3012482981,Mittlenberghütte,46.38553,8.27785,CH,2395,18,,https://mittlenberghuette.ch/,yes,,yes,yes,,,,,,,,,,,,,3619,1100,alpen-atlas+atlas-montagne
+n3066945123,Rifugio Fiorasca,46.37953,8.60335,CH,2086,,,,,,,,,,,,,,,,Q71321453,,,,,1895,alpen-atlas+atlas-montagne

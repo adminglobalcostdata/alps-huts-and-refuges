@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit the original source."
+title: "Alpine Huts & Refuges: DE AT CH FR (OSM)"
+type: dataset
+authors:
+  - family-names: "Bousquet"
+    given-names: "Henri"
+abstract: "Search about 2,400 mountain huts and refuges in Germany, Austria, Switzerland and France from OpenStreetMap: coordinates, elevation, beds, winter room, water, food, reservation. Embedded data, no scraping, pay per record."
+url: "https://apify.com/phonic_lily/alps-huts-and-refuges"
+repository-code: "https://github.com/adminglobalcostdata/alps-huts-and-refuges"
+date-released: 2026-11-10
+keywords:
+  - open-data
+  - dataset
+  - json
+  - jsonl
+  - apify
+  - apify-actor
+  - data-api
+  - alps
